@@ -1,3 +1,3 @@
 # Just for testing purposes
-print("hello deck")
+print("Deck cfg file edit")
 
